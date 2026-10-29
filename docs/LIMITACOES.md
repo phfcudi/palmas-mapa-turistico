@@ -25,7 +25,7 @@ Este documento existe para evitar que o mapa seja lido como mais preciso do que 
 
 ## Técnicas
 * **O modo 3D foi validado apenas por simulação de código** no ambiente de desenvolvimento (sem GPU/rede para carregar o Three.js).
-  Faça um teste visual em Chrome, Firefox, Safari e em celulares antes de divulgar. Verifique: serra, água, barcos, parapentes,
+  O modo 3D foi validado visualmente em [GOOGLE CHROME, MICROSOFT EDGE, SMARTPHONE SAMSUNG ANDROID, GOOGLE CHROME, NAVEGADOR SAMSUNG]. Verifique: serra, água, barcos, parapentes,
   aviões, palmeiras, monumentos e a vista “Turística”.
 * O 3D e a fonte dependem de CDNs (cdnjs e Google Fonts). Sem internet o 2D funciona; o 3D mostra um aviso.
 * Celulares simples podem ficar lentos com a **Animação** ligada; há um botão para desligá-la.
