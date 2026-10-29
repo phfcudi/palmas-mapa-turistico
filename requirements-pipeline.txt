@@ -1,0 +1,4 @@
+# Dependências adicionais para refazer a preparação de dados (pasta pipeline/)
+-r requirements.txt
+scipy>=1.11
+pytesseract>=0.3.10      # também exige o programa "tesseract" instalado no sistema (apenas passo 01)

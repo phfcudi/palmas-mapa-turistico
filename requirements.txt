@@ -1,0 +1,4 @@
+# Dependências para GERAR o mapa (python src/build.py)
+Pillow>=10.0
+numpy>=1.26
+opencv-python-headless>=4.9
